@@ -1,4 +1,2 @@
 #!/bin/bash
- chmod 777 /0x01-shell_permissions
-#!/bin/bash
  chmod 755 /0x01-shell_permissions
