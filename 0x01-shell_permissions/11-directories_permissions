@@ -1,2 +1,2 @@
 #!/bin/bash
- chmod for d in */ ; do a+x $d /0x01-shell_permissions
+ chmod 664 /0x01-shell_permissions
